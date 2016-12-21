@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/.idea/libraries/httpclient_4_3_6.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/tryagain/com/fleetmanagmentsystem/gpstracking/GpsTrackerActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/tryagain/com/fleetmanagmentsystem/gpstracking/GpsTrackerAlarmReceiver.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/tryagain/com/fleetmanagmentsystem/gpstracking/GpsTrackerBootReceiver.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/tryagain/com/fleetmanagmentsystem/gpstracking/LocationService.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/tryagain/com/fleetmanagmentsystem/gpstracking/LoopjHttpClient.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/green_tracking_button.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/red_tracking_button.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/servers" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fleet Management System</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Add fuel</string>
+    <string name="action_log_out">Log out</string>
+    <string name="map_info">ABCD</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="hint_driver_pin">PIN number</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">If already register! Log in.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="str_hnt_lat">Enter Latitude</string>
+    <string name="str_hnt_lng">Enter Longitude</string>
+    <string name="prompt_PIN">PIN</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="plus_sign_out">Switch Google+ account</string>
+    <string name="plus_disconnect">Disconnect from Google+</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    
+    <string-array name ="nav_drawer_items">
+        <item>Simple Optimization</item>
+        <item>Optimization with Traffic</item>
+        <item>Tell World</item>
+        <item>Notifications</item>
+        <item>Log Out</item>
+    </string-array>
+  <string name="desc_list_item_icon">Item Icon</string>  
+    <string-array name ="locationName">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+    </string-array>
+    
+    <string-array name ="des">
+        <item>AD</item>
+        <item>BD</item>
+        <item>CD</item>
+        <item>ED</item>
+        <item>FD</item>
+        <item>F</item>
+    </string-array>
+    
+        <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string-array name="description">
+        <item>Total Fuel Consumed</item>
+        <item>Avg. Speed</item>
+        <item>Total Duration</item>
+        <item>Total Distance Covered</item>
+        <item>Total Number of Warning</item>
+        <item>Submit</item>
+        <item>Afghanistan</item>
+        <item>North Korea</item>
+        <item>South Korea</item>
+        <item>Japan</item>
+    </string-array>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_main">LoginActivity</string>
+
+    <string name="title_section1">Fuel Input</string>
+    <string name="title_section2">Tracking</string>
+    <string name="title_section3">Speed</string>
+    <string name="title_section4">Car Condition Record</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="title_activity_fuel_input">FuelInputActivity</string>
+    <string name="title_activity_track">TrackActivity</string>
+
+    <string name="user_needs_to_restart_tracking">Restart Tracking</string>
+    <string name="textfields_empty_or_spaces">Empty text fields or Space</string>
+    <string name="tracking_is_on">Tracking.....</string>
+    <string name="tracking_is_off">Start Tracking</string>
+    <string name ="user_name">Enter User Name</string>
+    <string name="upload_website">Name of Website</string>
+    <string name="upload_frequency">Update Frequency</string>
+    <string name="one_minute">1 minute</string>
+    <string name="five_minutes">5 minutes</string>
+    <string name="fifteen_minutes">15 minutes</string>
+    <string name="default_upload_website">http://akibanwar-001-site1.1tempurl.com/gps/updatelocation.php</string>
+    <string name="google_play_services_unavailable">Please go into Settings > Apps > All and enable Google Play Services.</string>
+    <string name="title_activity_car_condition">CarConditionActivity</string>
+    <string name="chk_mobil">Mobil</string>
+    <string name="chk_a_tires">Additional Tires</string>
+    <string name="chk_battery">Battery</string>
+    <string name="chk_break">Breaks</string>
+    <string name="chk_air_machines">Air Machines</string>
+    <string name="chk_radiator_water">Radiator Water</string>
+    <string name="chk_indicator_light">Indicator Light</string>
+    <string name="chk_lights">Lights</string>
+    <string name="btn_display">Save</string>
+    <string name="title_cc">"Enter Car Condition</string>
+
+
+
+</resources>

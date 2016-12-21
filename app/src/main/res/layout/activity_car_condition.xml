@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@color/grey">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/title_cc"
+        android:layout_marginBottom="10dp"
+        android:textColor="#000000"/>
+
+    <CheckBox
+        android:id="@+id/chkMobile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/chk_mobil" />
+
+    <CheckBox
+        android:id="@+id/chkatires"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/chk_a_tires" />
+
+    <CheckBox
+        android:id="@+id/chkBattery"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/chk_battery"
+        android:checked="true" />
+
+    <CheckBox
+        android:id="@+id/chkAirMachine"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/chk_air_machines" />
+
+    <CheckBox
+        android:id="@+id/chkRadiatorWater"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/chk_radiator_water" />
+
+    <CheckBox
+        android:id="@+id/chkIndicatorLight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/chk_indicator_light" />
+
+    <CheckBox
+        android:id="@+id/chkLights"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/chk_lights" />
+
+    <CheckBox
+        android:id="@+id/chkBreaks"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/chk_break" />
+
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_display"
+        android:background="@color/pink"
+        android:textColor="@color/white"
+        android:layout_gravity="center_horizontal"/>
+
+</LinearLayout>
